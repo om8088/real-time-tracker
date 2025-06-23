@@ -76,7 +76,7 @@ A real-time location tracking application built with **Node.js**, **Socket.io**,
 
 ### 📱 Mobile View
 
-![Mobile View](./public/images/mobile.png)
+![Mobile View](./public/images/mobile.jpg)
 
 ## 💻 CLONING THE REPOSITORY
 
