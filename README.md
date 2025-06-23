@@ -20,6 +20,8 @@ A real-time location tracking application built with **Node.js**, **Socket.io**,
 - EJS templating engine
 - HTML5 / CSS3 / JavaScript
 
+
+
 ## 🔧 HOW TO USE
 
 1. Clone the repository:
@@ -61,6 +63,15 @@ A real-time location tracking application built with **Node.js**, **Socket.io**,
 
 - You can assign usernames or colors by prompting the user and sending extra data through `socket.emit()`.
 - You can add avatars or group locations using user roles.
+
+- ## 📸 Screenshots
+
+### 💻 Desktop View
+![Desktop View](./images/desktop.png)
+
+### 📱 Mobile View
+![Mobile View](./images/mobile.png)
+
 
 ## 💻 CLONING THE REPOSITORY
 
