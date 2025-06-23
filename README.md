@@ -104,4 +104,4 @@ Currently runs on local network only.
 
 ---
 
-👨‍💻 Developed by [OmsaiDesai](https://github.com/omsaidesaii)
+👨‍💻 Developed by [OmsaiDesai](https://github.com/om8088)
