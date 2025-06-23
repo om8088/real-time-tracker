@@ -72,11 +72,11 @@ A real-time location tracking application built with **Node.js**, **Socket.io**,
 
 ### 💻 Desktop View
 
-![Desktop View](./images/desktop.png)
+![Desktop View](./public/images/desktop.png)
 
 ### 📱 Mobile View
 
-![Mobile View](./images/mobile.png)
+![Mobile View](./public/images/mobile.png)
 
 ## 💻 CLONING THE REPOSITORY
 
